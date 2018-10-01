@@ -1,0 +1,20 @@
+body{
+	background-image: url('file:///Users/mhenriksen/Desktop/Plant Site/Images/background.jpg');
+	background-size: cover; 
+	background-repeat: no-repeat;
+}
+
+.mainheader{
+	color: white;
+	display: flex;
+	width: auto;
+}
+
+.main-nav{
+	display: flex;
+}
+
+.nav-box{
+	padding: 50px;
+	padding-left: 100px
+}
